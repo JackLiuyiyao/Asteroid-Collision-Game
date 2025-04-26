@@ -1,7 +1,6 @@
 # 🪐 Asteroid Collision Game
 
 This project is a 2D browser-based asteroid collision game, built using JavaScript and HTML5 Canvas.  
-It was developed as part of EECS 493: User Interface Development at the University of Michigan.
 
 ## 🚀 Gameplay Overview
 - Control a spaceship to avoid incoming asteroids.
