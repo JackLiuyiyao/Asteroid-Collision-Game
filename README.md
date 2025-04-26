@@ -45,6 +45,4 @@ This project is a 2D browser-based asteroid collision game, built using JavaScri
 - Level up as time goes.
 - Smooth frame-by-frame animation using the Canvas rendering loop.
 
----
 
-*Created with ❤️ by Jack Liu.*
